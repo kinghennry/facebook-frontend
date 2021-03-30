@@ -1,0 +1,11 @@
+@media (max-width:768px) {
+    .widgets {
+        opacity:0;
+        pointer-events: none;
+    }
+}
+@media (max-width:562px) {
+    .widgets {
+        display: none;
+    }
+}
